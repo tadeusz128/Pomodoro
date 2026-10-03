@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "reconstructed_on": "2026-10-03",
+  "historical_asset_count": 1687,
+  "historical_document_count": 12,
+  "excluded_asset_count": 16,
+  "stages": [
+    {
+      "tag": "etap-01-2026-08-12",
+      "date": "2026-08-12",
+      "title": "Początek: kobieta daje mężczyźnie symbol relacji",
+      "asset_count": 0,
+      "document_count": 0,
+      "commit": "9a70bd51e16a0392e3f2032c9fc266f970ccde70"
+    },
+    {
+      "tag": "etap-02-2026-08-14",
+      "date": "2026-08-13 / 2026-08-14",
+      "title": "Pierwsze formy: serce, splecenie, dłonie i diament",
+      "asset_count": 64,
+      "document_count": 0,
+      "commit": "6b936dbb98bec241b7761570a403f40737870945"
+    },
+    {
+      "tag": "etap-03-2026-08-18",
+      "date": "2026-08-15 / 2026-08-18",
+      "title": "Fibula, antyk i równoległy kierunek Taken Token",
+      "asset_count": 66,
+      "document_count": 0,
+      "commit": "e1f55ef5828ab25099cdac9e90f192cc43a7a6ec"
+    },
+    {
+      "tag": "etap-04-2026-08-22",
+      "date": "2026-08-19 / 2026-08-22",
+      "title": "Taken Token: strona, Instagram i przekazanie sklepu do Shopify",
+      "asset_count": 191,
+      "document_count": 2,
+      "commit": "ba436cc1ab57356fb9ee7ccb343d127a5d2cadc9"
+    },
+    {
+      "tag": "etap-05-2026-08-30",
+      "date": "2026-08-23 / 2026-08-30",
+      "title": "Repertuar form i warianty faktur",
+      "asset_count": 103,
+      "document_count": 1,
+      "commit": "6465c8299cb68235c1a82898e2ed6b25fcaf36be"
+    },
+    {
+      "tag": "etap-06-2026-09-04",
+      "date": "2026-08-31 / 2026-09-04",
+      "title": "Odejście od Taken i nowe rodziny form",
+      "asset_count": 181,
+      "document_count": 0,
+      "commit": "9cedc201993d23a9fd56b548ed358ab280d61c59"
+    },
+    {
+      "tag": "etap-07-2026-09-07",
+      "date": "2026-09-05 / 2026-09-07",
+      "title": "Love Token: własna kolekcja, sens nadawany przez parę",
+      "asset_count": 20,
+      "document_count": 0,
+      "commit": "adfe1fdedff3aa0499100189ed0a4dbf9ef85180"
+    },
+    {
+      "tag": "etap-08-2026-09-11",
+      "date": "2026-09-08 / 2026-09-11",
+      "title": "Męski token pomiędzy pierścionkiem i formą techniczną; Instagram v3/v4",
+      "asset_count": 228,
+      "document_count": 2,
+      "commit": "208cf315b3f35d1cca89da09914c60c81623849e"
+    },
+    {
+      "tag": "etap-09-2026-09-18",
+      "date": "2026-09-12 / 2026-09-18",
+      "title": "Ciepły Instagram, sceny relacji i kontrola skali",
+      "asset_count": 30,
+      "document_count": 0,
+      "commit": "02c2432c87ab9f6ff5555d22221959e1f1453be8"
+    },
+    {
+      "tag": "etap-10-2026-09-19",
+      "date": "2026-09-19",
+      "title": "Zestaw dziewięciu zawieszek i fotografia kolekcji",
+      "asset_count": 89,
+      "document_count": 0,
+      "commit": "7386c17c775861e76f21750d2e5457190cf310ad"
+    },
+    {
+      "tag": "etap-11-2026-09-20",
+      "date": "2026-09-20",
+      "title": "Szare widoki techniczne i odrzucone zmiany geometrii",
+      "asset_count": 321,
+      "document_count": 3,
+      "commit": "97078c75a78618b807b54a4c9daee4ab47a53384"
+    },
+    {
+      "tag": "etap-12-2026-09-21-korekty",
+      "date": "2026-09-21 do 15:45 UTC",
+      "title": "Powrót do ośmiu wzorów; mocowanie, Orbit i Cage",
+      "asset_count": 308,
+      "document_count": 1,
+      "commit": "87355078de67504ac5afa8c254cfab14ee252925"
+    },
+    {
+      "tag": "etap-13-2026-09-22",
+      "date": "2026-09-21 od 15:45 UTC / 2026-09-22",
+      "title": "Ręcznie zaakceptowana tablica i późniejsze propozycje opraw / Instagrama",
+      "asset_count": 86,
+      "document_count": 0,
+      "commit": "315ef9ca17de4c9d3aa998ef228a95eed3dd8f1f"
+    },
+    {
+      "tag": "etap-14-2026-10-02",
+      "date": "2026-09-23 / 2026-10-02",
+      "title": "Dossier biznesowe i rozdzielenie opisu od potwierdzonych decyzji",
+      "asset_count": 0,
+      "document_count": 3,
+      "commit": "ab2dca9c3961dac22935d290e08611b8860a7999"
+    },
+    {
+      "tag": "stan-aktualny",
+      "date": "2026-10-03; referencja zaakceptowana 2026-09-21",
+      "title": "Obecny potwierdzony stan Love Token",
+      "asset_count": 9,
+      "document_count": 0
+    }
+  ]
+}
