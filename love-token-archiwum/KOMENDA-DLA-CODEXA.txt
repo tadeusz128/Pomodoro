@@ -1,1 +1,0 @@
-Rozpakuj tę paczkę razem z .git i przejmij istniejące repozytorium Love Token. Przeczytaj AGENTS.md i AKTUALNE.md. Zachowaj wszystkie commity i tagi; uruchom python3 scripts/przeglad.py i przygotuj podgląd historii. Dalszą pracę zacznij od gałęzi main oraz potwierdzonego stanu, bez przywracania odrzuconych lub niezatwierdzonych wariantów.
